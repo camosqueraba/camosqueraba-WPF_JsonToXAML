@@ -1,0 +1,13 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WPF_JsonToXAML/v17/.wsuo
+/.vs/WPF_JsonToXAML/v17/DocumentLayout.backup.json
+/.vs/WPF_JsonToXAML/v17/DocumentLayout.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/WPF_JsonToXAML/.vs/WPF_JsonToXAML/FileContentIndex/6b0e41be-0ee7-4690-b9c1-808aae51401c.vsidx
+/WPF_JsonToXAML/.vs/WPF_JsonToXAML/v17/.suo
+/WPF_JsonToXAML/.vs/WPF_JsonToXAML/v17/DocumentLayout.json
+/WPF_JsonToXAML/.vs/WPF_JsonToXAML/v17/DocumentLayout.backup.json

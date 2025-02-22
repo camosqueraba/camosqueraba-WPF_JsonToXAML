@@ -1,0 +1,15 @@
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\bin\Debug\WPF_JsonToXAML.exe.config
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\bin\Debug\WPF_JsonToXAML.exe
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\bin\Debug\WPF_JsonToXAML.pdb
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML.csproj.AssemblyReference.cache
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\MainWindow.g.cs
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\App.g.cs
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML_MarkupCompile.cache
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML_MarkupCompile.lref
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\MainWindow.baml
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML.g.resources
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML.Properties.Resources.resources
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML.csproj.GenerateResource.cache
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML.csproj.CoreCompileInputs.cache
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML.exe
+C:\Users\camos\OneDrive\Documentos\Carlos\Desarrollos Personales (Proyectos)\WPF_JsonToXAML\WPF_JsonToXAML\WPF_JsonToXAML\obj\Debug\WPF_JsonToXAML.pdb
